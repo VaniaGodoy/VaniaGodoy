@@ -1,7 +1,8 @@
 # Olá, eu sou a Vania Godoy 👋
 
-💻 **Desenvolvedora Front-End** | 🎨 **UX/UI Designer**  
-📍 Brasil | 📚 Apaixonada por aprender e criar soluções digitais intuitivas.
+💻 **Desenvolvedora Front-End** | 🎨 **UX/UI Designer** 
+📍 Brasil | 📚 Desenvolvedora Front-End em formação, focada em criar interfaces responsivas, 
+   acessíveis e com boa experiência de usuário.
 
 ---
 
