@@ -40,4 +40,4 @@
 
 ---
 
-⭐️ Sempre em busca de novos desafios e oportunidades para aprender e colaborar em projetos incríveis!
+⭐️ Sempre aprendendo, evoluindo e criando soluções digitais com propósito!
