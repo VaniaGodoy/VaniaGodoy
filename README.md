@@ -7,7 +7,10 @@
 
 ## 🚀 Sobre mim
 - 🎓 Tecnóloga em Sistemas para Internet (Uninove)  
-- 📱 Pós-graduação em Desenvolvimento Mobile IFSP - Câmpus São Carlos(em andamento – conclusão 12/2027)  
+- 📱 Pós-graduação em Desenvolvimento Mobile – IFSP Câmpus São Carlos  
+  *(em andamento – conclusão prevista: 12/2027)*  
+- 🌎 Curso de Inglês para Iniciantes – IFSP *(em andamento)*
+  
 - 📚 Formações:  
   - Desenvolvimento Web – ElasNaTech (JA Brasil + IBM)  
   - Front-End – Alura ONE T5  
